@@ -1,7 +1,7 @@
 ## Olá, me chamo João Victor Ferreira
 
 - 🔭 Sou estudante da Fatec - Ourinhos no curso de Segurança da Informação;
-- 🌱 Estudo programação, apenas por querer adquirir conhecimento;
+- 🌱 Estudo programação apenas por querer adquirir conhecimento;
 - 📫 Contate-me no email: jvictorsf.2025@hotmail.com
 
 <div align="center">
@@ -10,7 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorsf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Joao-Java" height="50" width="60"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Joao-JS" height="50" width="60"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="Joao-Python" height="50" width="60"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Joao-Bash" height="50" width="60"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
   
 ##

@@ -15,8 +15,8 @@
   <img align="center" alt="Joao-JS" height="50" width="60"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <!--<img align="center" alt="Joao-Python" height="50" width="60"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Joao-Bash" height="50" width="60"-->
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />-->
+  <img align="center" alt="Joao-Bash" height="50" width="60"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
   

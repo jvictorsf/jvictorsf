@@ -13,13 +13,34 @@
 </div>
   
 
-## Tecnologias
+
+## Linguagem de Scripts
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-JS" height="50" width="60"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <a href="https://github.com/jvictorsf/ShellScript"><img align="center" alt="Joao-Bash" height="50" width="60"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a
+  <a href="https://github.com/jvictorsf/ShellScript"><img align="center" alt="Joao-Bash" height="50" width=""60 src="img/gnu-bash.png"></a>
+  <!--<img align="center" alt="Joao-Python" height="50" width=""60 src="img/python.png">-->
 </div>
+
+<!--## Desenvolvimento Desktop
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joao-C" height="50" width=""60 src="img/c.png">
+  <img align="center" alt="Joao-Cpp" height="50" width=""60 src="img/cpp.png">
+  <img align="center" alt="Joao-Csharp" height="50" width=""60 src="img/csharp.png">
+  <img align="center" alt="Joao-Java" height="50" width=""60 src="img/java.png">
+</div>-->
+
+## Desenvolvimento Web
+<div style="display: inline_block"><br>
+  <!--<img align="center" alt="Joao-CSS" height="50" width=""60 src="img/css-3.png">-->
+  <a href="https://github.com/jvictorsf/HTML"><img align="center" alt="Joao-HTML" height="50" width=""60 src="img/html-5.png"></a>
+  <!--<img align="center" alt="Joao-JS" height="50" width=""60 src="img/js.png">
+  <img align="center" alt="Joao-PHP" height="50" width=""60 src="img/php.png">
+  <img align="center" alt="Joao-Ruby" height="50" width=""60 src="img/ruby.png">-->
+</div>
+
+<!--## Banco de dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joao-MySQL" height="50" width=""60 src="img/mysql.png">
+</div>-->
   
 
 ## Redes Sociais

@@ -30,8 +30,3 @@ Meu objetivo é me tornar um dos melhores programadores do mundo (meio absurdo n
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictorsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorsf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-
-<!-- Badges -->
-https://dev.to/envoy_/150-badges-for-github-pnk
